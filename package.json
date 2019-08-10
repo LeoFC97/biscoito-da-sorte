@@ -1,0 +1,13 @@
+{
+  "name": "biscoito-da-sorteBackEnd",
+  "version": "1.0.0",
+  "description": "Api rest",
+  "main": "index.js",
+  "repository": "https://github.com/LeoFC97/biscoito-da-sorteBackEnd.git",
+  "author": "<leonardo.fc2@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
